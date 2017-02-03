@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 test hello sua dd
-=======
-test hello
->>>>>>> parent of 8d8af15... update
