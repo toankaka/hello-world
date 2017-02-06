@@ -1,1 +1,1 @@
-test commit cmd aa
+test commit cmd
